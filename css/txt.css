@@ -1,0 +1,41 @@
+ .nadpis{
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 150px;
+ }
+ .button{
+    background-color: rgb(121, 199, 5);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    transition: opacity 0.15s;
+    vertical-align: top;
+    margin-bottom: 20px;
+ }
+ .button :hover{
+    opacity: 0.8;
+ }
+ .p1 {
+    font-weight: bold;
+    font-size: 30px;
+    width: 300px ;
+    margin-bottom: 0;
+    line-height: 30px;
+    
+  }
+  .skupiny{
+    font-weight: bold;
+    font-size: 30px;
+    width: 300px ;
+    margin-bottom: 20px;
+    line-height: 30px;
+    font-family: 'Lobster', cursive;
+  }
